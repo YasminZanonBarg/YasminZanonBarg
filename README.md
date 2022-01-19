@@ -21,6 +21,6 @@
   <a href="https://br.linkedin.com/in/yasmin-zanon-barg-799412199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:yasmin.barg@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/YasminZanonBarg)
+  ![Snake animation](https://github.com/YasminZanonBarg/YasminZanonBarg/blob/output/github-contribution-grid-snake.svg)
   
 </div>
