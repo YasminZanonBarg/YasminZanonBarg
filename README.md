@@ -1,4 +1,4 @@
-## Oiii eu sou a Yasmin Zanon Barg, <br> Estudante de Sistemas de Informação com foco em Analytics e Data Science! 
+## Oiii eu sou a Yasmin Zanon Barg, <br> Engenheira de Dados e Estudante de Sistemas de Informação! 
 
 <div align="center">
   <a href="https://github.com/YasminZanonBarg">
